@@ -1,1 +1,1 @@
-# dorklab
+open index.html
